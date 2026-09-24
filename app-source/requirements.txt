@@ -1,0 +1,5 @@
+watchdog==6.0.0
+Pillow==12.3.0
+PySide6-Essentials==6.11.2
+shiboken6==6.11.2
+PyInstaller==6.22.3
