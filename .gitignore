@@ -1,0 +1,25 @@
+# Python e ambientes locais
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Empacotamento e binários: publicar em Releases
+build/
+dist/
+*.spec
+*.exe
+*.zip
+
+# Dados locais
+*.log
+config.json
+.env
+.env.*
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
